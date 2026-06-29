@@ -1,34 +1,4 @@
-## Table of Contents
-- [About The Project](#about-the-project)
-- [Built With](#built-with)
-- [Features](#features)
-  - [Authentication & User Management](#authentication--user-management)
-  - [Dashboard](#dashboard)
-  - [Point of Sale (POS)](#point-of-sale-pos)
-  - [Product Management](#product-management)
-  - [Category Management](#category-management)
-  - [Customer Management](#customer-management)
-  - [Supplier Management](#supplier-management)
-  - [Employee Management](#employee-management)
-  - [Order Management](#order-management)
-  - [Expense Management](#expense-management)
-  - [Salary Management](#salary-management)
-  - [Reports & Analytics](#reports--analytics)
-  - [Global Search](#global-search)
-- [User Benefits](#user-benefits)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Database Setup](#database-setup)
-  - [Demo Data](#demo-data)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Database Schema](#database-schema)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
----
+
 ## About The Project
 **Inventory Pro Management** is a full-featured inventory management and point-of-sale (POS) application designed for small to medium retail businesses. It provides a unified platform to manage products, sales, customers, employees, suppliers, expenses, and payroll — all through a modern, responsive, dark-themed web interface.
 The application streamlines day-to-day retail operations by combining inventory tracking, sales processing, financial reporting, and employee management into a single cohesive system. Built with **Laravel 10** on the backend and **Tailwind CSS** with **Alpine.js** on the frontend, it delivers a fast, intuitive experience across desktop and mobile devices.
