@@ -1,6 +1,6 @@
 
 ## About The Project
-***Inventory Pro Management** is a full-featured inventory management and point-of-sale (POS) application designed for small to medium retail businesses. It provides a unified platform to manage products, sales, customers, employees, suppliers, expenses, and payroll — all through a modern, responsive, dark-themed web interface.
+**Inventory Pro Management** is a full-featured inventory management and point-of-sale (POS) application designed for small to medium retail businesses. It provides a unified platform to manage products, sales, customers, employees, suppliers, expenses, and payroll — all through a modern, responsive, dark-themed web interface.
 The application streamlines day-to-day retail operations by combining inventory tracking, sales processing, financial reporting, and employee management into a single cohesive system. Built with **Laravel 10** on the backend and **Tailwind CSS** with **Alpine.js** on the frontend, it delivers a fast, intuitive experience across desktop and mobile devices.
 ---
 ## Built With
